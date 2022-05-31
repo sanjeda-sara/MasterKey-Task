@@ -1,0 +1,118 @@
+body{
+    background-color: #F2F2F2;
+}
+nav{
+    background-color: #F2F2F2;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+@import url('http://fonts.cdnfonts.com/css/prototype');
+@import url('http://fonts.cdnfonts.com/css/pt-sans-2');
+
+  .h-200{ height: 200px; }
+.h-50{ height: 50px; }
+.h-550{ height: 550px; }
+.h-250{ height: 300px; }
+.h-157{ height: 157px; }
+.p-size
+{
+    font-size: 14px;
+}
+.artwork{
+    width: 350px;
+    height: 250px;
+    color: black;
+    text-align: center;
+    background-color: white;
+    text-align: center;
+}
+.purple{
+    color: #644F9C;
+}
+
+.red{
+    color: #FF6F00;
+}
+
+.menu{
+    text-transform: uppercase;
+    font-family: 'PT-Sans', sans-serif ;
+}
+.logo{
+    text-transform: uppercase;
+    color: #404040;
+    font-weight: bold;
+    font-family: Prototype, sans-serif;
+    font-size: 30px;
+}
+
+.button {
+    background-color: #F2F2F2;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    border: none;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+    border-radius: 50px;
+}
+.button:hover {
+    background-color: #FF6F00;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+.button1 {
+    background-color: #644F9C;
+    border: none;
+    width: 200px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50px;
+}
+.one{
+    width: 500px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    background-color: #644F9C;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: white;
+}
+.font1{
+    font-family: PT-Sans, sans-serif;
+}
+.ad-title{
+    font-family: PT-Sans, sans-serif;
+    color:  #FF6F00;
+}
+.p-text{
+    font-size: 20px;
+    font-family: PT-Sans, sans-serif;
+}
+.learn-more{
+    color: #644F9C;
+}
+footer{
+    background: linear-gradient( gray, whitesmoke,whitesmoke,whitesmoke, whitesmoke );
+}
+
+
+
+
+

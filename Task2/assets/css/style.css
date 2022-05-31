@@ -1,0 +1,31 @@
+
+.h-200{ height: 200px; }
+.h-50{ height: 50px; }
+.h-550{ height: 550px; }
+.h-250{ height: 300px; }
+.h-157{ height: 157px; }
+.p-size
+{
+    font-size: 14px;
+}
+
+footer{
+    background: linear-gradient( lightcyan, lightblue, powderblue);
+}
+.bg-footer{
+    animation-name: footer-link;
+    animation-duration: 6s;
+}
+
+@keyframes footer-link {
+    from{
+        background-color: black;
+    }
+    to{
+        background-color: dodgerblue;
+    }
+}
+
+
+
+

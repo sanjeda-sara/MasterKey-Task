@@ -1,0 +1,41 @@
+body{
+    background-color: #F2F2F2;
+}
+
+@import url('http://fonts.cdnfonts.com/css/prototype');
+@import url('http://fonts.cdnfonts.com/css/pt-sans-2');
+
+  .h-200{ height: 200px; }
+.h-50{ height: 50px; }
+.h-550{ height: 550px; }
+.h-250{ height: 300px; }
+.h-157{ height: 157px; }
+.p-size
+{
+    font-size: 14px;
+}
+
+.purple{
+    color: #644F9C;
+}
+
+.red{
+    color: #FF6F00;
+}
+
+.p-text{
+    font-size: 20px;
+    font-family: PT-Sans, sans-serif;
+}
+
+.box2{
+    width: 600px;
+    color: white;
+}
+footer2{
+    background: linear-gradient( lightcyan, lightblue, powderblue);
+}
+
+
+
+
